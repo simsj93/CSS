@@ -1,0 +1,55 @@
+body {
+    font-family: Georgia, serif; 
+    background-color: lightgray;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none; 
+    color: maroon;
+}
+
+a:hover {
+    color: yellow; 
+    font-weight: 700; 
+    cursor: pointer;
+}
+
+#span1{
+    font-weight: 600;
+    color: brown;
+}
+#span2 {
+    font-weight: 200;
+    color: aquamarine;
+}
+#span3 {
+    font-weight: 400;
+    color: purple;
+}
+#span4 {
+    font-weight: 100;
+    color: white; 
+}
+.boxes {
+    margin: 1em;
+    padding: 2em; 
+    border: solid 1px purple; 
+    border-radius: 50px; 
+    width: 30em
+}
+#box1 { background-color: blue;
+
+}
+#box2 { background-color: red;
+
+}
+#box3 { background-color: orange; 
+
+}
+#box4 { background-color: green; 
+
+}
