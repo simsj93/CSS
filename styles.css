@@ -39,17 +39,77 @@ a:hover {
     padding: 2em; 
     border: solid 1px purple; 
     border-radius: 50px; 
-    width: 30em
+    width: 30em;
+    display: block; 
 }
 #box1 { background-color: blue;
 
 }
 #box2 { background-color: red;
-
+                
 }
 #box3 { background-color: orange; 
 
 }
 #box4 { background-color: green; 
 
+}
+
+.img { 
+    height: 50px; 
+    width: 50px; 
+    border-radius: 50px; 
+    background-color: chartreuse;
+    position: relative; 
+    top: 3rem; 
+    left: 3rem; 
+
+}
+
+h1 {
+     color: black;
+}
+
+.original {
+     color: turquoise; 
+}
+
+.additional {
+    color: orange; 
+}
+
+#rank1 {
+    color: blue;
+}
+
+#rank2 {
+    color: green;
+}
+
+#rank3 {
+ color: gray;
+}
+
+#rank4 {
+ color: brown; 
+}
+
+#rank5 {
+ color: orange; 
+}
+
+ul {
+    color: gold
+}
+
+.star {
+    color: salmon; 
+}
+
+#wars {
+    color: skyblue; 
+}
+
+.finaldiv {
+    border: 2px solid black; 
 }
